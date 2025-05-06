@@ -9,3 +9,5 @@ Palettes are available in PDF and ASE formats. PDF is general-purpose and can be
 <!-- NB: only save palettes with at least 5-6 usable colors; otherwise the repo gets filled with “mood” swatches that are never used. -->
 
 <!-- Eventually process https://www.presentandcorrect.com/blogs/blog/the-function-of-colour-in-schools-hospitals-1930 -->
+
+<!-- Any color from Topo Designs as well -->
