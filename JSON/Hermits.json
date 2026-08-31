@@ -1,0 +1,105 @@
+{
+  "colors" : [
+    {
+      "hex" : "918C9E",
+      "name" : "Gray Suit",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 158,
+        "green" : 140,
+        "red" : 145
+      }
+    },
+    {
+      "hex" : "CFD1E0",
+      "name" : "Mischka",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 224,
+        "green" : 209,
+        "red" : 207
+      }
+    },
+    {
+      "hex" : "EEF2FC",
+      "name" : "Selago",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 252,
+        "green" : 242,
+        "red" : 238
+      }
+    },
+    {
+      "hex" : "FDF6C2",
+      "name" : "Corn Field",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 194,
+        "green" : 246,
+        "red" : 253
+      }
+    },
+    {
+      "hex" : "FCFEA1",
+      "name" : "Milan",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 161,
+        "green" : 254,
+        "red" : 252
+      }
+    },
+    {
+      "hex" : "548EDD",
+      "name" : "Havelock Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 221,
+        "green" : 142,
+        "red" : 84
+      }
+    },
+    {
+      "hex" : "161725",
+      "name" : "Mirage",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 37,
+        "green" : 23,
+        "red" : 22
+      }
+    },
+    {
+      "hex" : "0FE1BF",
+      "name" : "Robin's Egg Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 191,
+        "green" : 225,
+        "red" : 15
+      }
+    },
+    {
+      "hex" : "F86CAA",
+      "name" : "Cyclamen",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 170,
+        "green" : 108,
+        "red" : 248
+      }
+    },
+    {
+      "hex" : "E65059",
+      "name" : "Mandy",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 89,
+        "green" : 80,
+        "red" : 230
+      }
+    }
+  ],
+  "name" : "Hermits"
+}

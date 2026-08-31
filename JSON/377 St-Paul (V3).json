@@ -1,0 +1,235 @@
+{
+  "colors" : [
+    {
+      "hex" : "0016D4",
+      "name" : "Medium Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 213,
+        "green" : 22,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "0046AD",
+      "name" : "Cobalt",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 174,
+        "green" : 70,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "9E86F0",
+      "name" : "Dull Lavender",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 241,
+        "green" : 135,
+        "red" : 158
+      }
+    },
+    {
+      "hex" : "DAE4EB",
+      "name" : "Pattens Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 236,
+        "green" : 228,
+        "red" : 219
+      }
+    },
+    {
+      "hex" : "8F99D6",
+      "name" : "Portage",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 215,
+        "green" : 153,
+        "red" : 144
+      }
+    },
+    {
+      "hex" : "EBF1BF",
+      "name" : "Tusk",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 192,
+        "green" : 241,
+        "red" : 236
+      }
+    },
+    {
+      "hex" : "B14FEA",
+      "name" : "Medium Orchid",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 235,
+        "green" : 80,
+        "red" : 177
+      }
+    },
+    {
+      "hex" : "FF7C36",
+      "name" : "Crusta",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 54,
+        "green" : 125,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "00E1F5",
+      "name" : "Bright Turquoise",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 246,
+        "green" : 225,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "D4C6F7",
+      "name" : "Moon Raker",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 247,
+        "green" : 199,
+        "red" : 213
+      }
+    },
+    {
+      "hex" : "0096F2",
+      "name" : "Azure",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 243,
+        "green" : 150,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "261F19",
+      "name" : "Oil",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 25,
+        "green" : 32,
+        "red" : 38
+      }
+    },
+    {
+      "hex" : "FFEC00",
+      "name" : "Aureolin",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 237,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "67CEF6",
+      "name" : "Maya Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 247,
+        "green" : 206,
+        "red" : 104
+      }
+    },
+    {
+      "hex" : "FF9BA5",
+      "name" : "Sweet Pink",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 165,
+        "green" : 156,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "FF2B00",
+      "name" : "244 St-Jacques (Dandy)",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 44,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "FFF8D6",
+      "name" : "Milk Punch",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 214,
+        "green" : 248,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "B0A17E",
+      "name" : "Mongoose",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 126,
+        "green" : 162,
+        "red" : 176
+      }
+    },
+    {
+      "hex" : "FFD600",
+      "name" : "Gold",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 215,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "FF9B00",
+      "name" : "Safety Orange",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 156,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "BFFAFF",
+      "name" : "French Pass",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 255,
+        "green" : 250,
+        "red" : 192
+      }
+    },
+    {
+      "hex" : "72FFF8",
+      "name" : "Baby Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 249,
+        "green" : 255,
+        "red" : 115
+      }
+    },
+    {
+      "hex" : "ECE0C9",
+      "name" : "Pearl Lusta",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 201,
+        "green" : 225,
+        "red" : 237
+      }
+    }
+  ],
+  "name" : "377 St-Paul (V3)"
+}

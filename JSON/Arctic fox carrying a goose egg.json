@@ -1,0 +1,115 @@
+{
+  "colors" : [
+    {
+      "hex" : "EDEDED",
+      "name" : "White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 237,
+        "green" : 237,
+        "red" : 237
+      }
+    },
+    {
+      "hex" : "D6D8DB",
+      "name" : "Iron",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 219,
+        "green" : 217,
+        "red" : 214
+      }
+    },
+    {
+      "hex" : "D3DBDD",
+      "name" : "Geyser",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 222,
+        "green" : 219,
+        "red" : 212
+      }
+    },
+    {
+      "hex" : "D8D8D8",
+      "name" : "Alto",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 217,
+        "green" : 217,
+        "red" : 217
+      }
+    },
+    {
+      "hex" : "E2E2E2",
+      "name" : "Platinum",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 227,
+        "green" : 227,
+        "red" : 227
+      }
+    },
+    {
+      "hex" : "0A070F",
+      "name" : "Cod Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 15,
+        "green" : 8,
+        "red" : 10
+      }
+    },
+    {
+      "hex" : "28282D",
+      "name" : "Jaguar",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 46,
+        "green" : 41,
+        "red" : 41
+      }
+    },
+    {
+      "hex" : "3D2D1E",
+      "name" : "Cola",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 31,
+        "green" : 46,
+        "red" : 61
+      }
+    },
+    {
+      "hex" : "42473D",
+      "name" : "Heavy Metal",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 71,
+        "red" : 66
+      }
+    },
+    {
+      "hex" : "936638",
+      "name" : "Brown",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 56,
+        "green" : 102,
+        "red" : 148
+      }
+    },
+    {
+      "hex" : "84493D",
+      "name" : "Ironstone",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 74,
+        "red" : 133
+      }
+    }
+  ],
+  "name" : "Arctic fox carrying a goose egg"
+}

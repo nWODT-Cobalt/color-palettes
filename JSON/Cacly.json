@@ -1,0 +1,105 @@
+{
+  "colors" : [
+    {
+      "hex" : "1E212B",
+      "name" : "Black Pearl",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 43,
+        "green" : 33,
+        "red" : 31
+      }
+    },
+    {
+      "hex" : "21262D",
+      "name" : "Black Russian",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 46,
+        "green" : 38,
+        "red" : 33
+      }
+    },
+    {
+      "hex" : "262835",
+      "name" : "Charade",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 54,
+        "green" : 41,
+        "red" : 38
+      }
+    },
+    {
+      "hex" : "4F5466",
+      "name" : "Fiord",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 102,
+        "green" : 84,
+        "red" : 79
+      }
+    },
+    {
+      "hex" : "A3916D",
+      "name" : "Mongoose",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 110,
+        "green" : 145,
+        "red" : 163
+      }
+    },
+    {
+      "hex" : "AD9B77",
+      "name" : "Tallow",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 120,
+        "green" : 156,
+        "red" : 173
+      }
+    },
+    {
+      "hex" : "FFEAA5",
+      "name" : "Cape Honey",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 166,
+        "green" : 235,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "FFE0A0",
+      "name" : "Cape Honey",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 161,
+        "green" : 224,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "E8442D",
+      "name" : "Cinnabar",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 46,
+        "green" : 69,
+        "red" : 232
+      }
+    },
+    {
+      "hex" : "FFFFFF",
+      "name" : "Romance",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 255,
+        "green" : 255,
+        "red" : 255
+      }
+    }
+  ],
+  "name" : "Cacly"
+}

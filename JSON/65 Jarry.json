@@ -1,0 +1,105 @@
+{
+  "colors" : [
+    {
+      "hex" : "E5E6E6",
+      "name" : "White Lilac",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 231,
+        "green" : 231,
+        "red" : 230
+      }
+    },
+    {
+      "hex" : "EBBF00",
+      "name" : "Corn",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 192,
+        "red" : 235
+      }
+    },
+    {
+      "hex" : "BF3C3D",
+      "name" : "Dull Red",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 61,
+        "red" : 191
+      }
+    },
+    {
+      "hex" : "3F2925",
+      "name" : "English Walnut",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 37,
+        "green" : 42,
+        "red" : 64
+      }
+    },
+    {
+      "hex" : "0C0813",
+      "name" : "Woodsmoke",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 19,
+        "green" : 9,
+        "red" : 13
+      }
+    },
+    {
+      "hex" : "27192D",
+      "name" : "Montana",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 46,
+        "green" : 26,
+        "red" : 40
+      }
+    },
+    {
+      "hex" : "2D2640",
+      "name" : "Tolopea",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 65,
+        "green" : 38,
+        "red" : 46
+      }
+    },
+    {
+      "hex" : "C96F3F",
+      "name" : "Zest",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 63,
+        "green" : 112,
+        "red" : 201
+      }
+    },
+    {
+      "hex" : "2FAEC5",
+      "name" : "Pelorous",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 198,
+        "green" : 174,
+        "red" : 48
+      }
+    },
+    {
+      "hex" : "0046B4",
+      "name" : "Cobalt",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 181,
+        "green" : 71,
+        "red" : 0
+      }
+    }
+  ],
+  "name" : "65 Jarry"
+}

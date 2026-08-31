@@ -1,0 +1,185 @@
+{
+  "colors" : [
+    {
+      "hex" : "91F9D3",
+      "name" : "Aquamarine",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 212,
+        "green" : 250,
+        "red" : 145
+      }
+    },
+    {
+      "hex" : "B2F9D6",
+      "name" : "Magic Mint",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 214,
+        "green" : 250,
+        "red" : 179
+      }
+    },
+    {
+      "hex" : "AAE8F4",
+      "name" : "Blizzard Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 245,
+        "green" : 232,
+        "red" : 171
+      }
+    },
+    {
+      "hex" : "A0E2FF",
+      "name" : "Anakiwa",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 255,
+        "green" : 227,
+        "red" : 161
+      }
+    },
+    {
+      "hex" : "AFDDED",
+      "name" : "Powder Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 237,
+        "green" : 222,
+        "red" : 176
+      }
+    },
+    {
+      "hex" : "C6DDFF",
+      "name" : "Tropical Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 255,
+        "green" : 222,
+        "red" : 199
+      }
+    },
+    {
+      "hex" : "DBDBDB",
+      "name" : "Alto",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 219,
+        "green" : 219,
+        "red" : 219
+      }
+    },
+    {
+      "hex" : "F9DDF7",
+      "name" : "Pink Lace",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 247,
+        "green" : 222,
+        "red" : 250
+      }
+    },
+    {
+      "hex" : "F79BC1",
+      "name" : "Pastel Magenta",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 194,
+        "green" : 156,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "F4968E",
+      "name" : "Sweet Pink",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 143,
+        "green" : 150,
+        "red" : 245
+      }
+    },
+    {
+      "hex" : "F47F75",
+      "name" : "Coral Pink",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 117,
+        "green" : 128,
+        "red" : 245
+      }
+    },
+    {
+      "hex" : "F9686B",
+      "name" : "Pastel Red",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 107,
+        "green" : 105,
+        "red" : 250
+      }
+    },
+    {
+      "hex" : "F99E77",
+      "name" : "Light Salmon",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 120,
+        "green" : 158,
+        "red" : 250
+      }
+    },
+    {
+      "hex" : "F7BF75",
+      "name" : "Macaroni And Cheese",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 117,
+        "green" : 191,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "FFC46D",
+      "name" : "Grandis",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 110,
+        "green" : 196,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "F4D1AD",
+      "name" : "Pancho",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 173,
+        "green" : 209,
+        "red" : 245
+      }
+    },
+    {
+      "hex" : "F7D6B7",
+      "name" : "Pink Lady",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 184,
+        "green" : 214,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "FCDBAD",
+      "name" : "Caramel",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 173,
+        "green" : 219,
+        "red" : 252
+      }
+    }
+  ],
+  "name" : "Cyclemon"
+}

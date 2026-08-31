@@ -1,0 +1,135 @@
+{
+  "colors" : [
+    {
+      "hex" : "232D47",
+      "name" : "Blue Whale",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 71,
+        "green" : 46,
+        "red" : 36
+      }
+    },
+    {
+      "hex" : "42546B",
+      "name" : "Fiord",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 107,
+        "green" : 84,
+        "red" : 66
+      }
+    },
+    {
+      "hex" : "E8E8E8",
+      "name" : "White Lilac",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 232,
+        "green" : 232,
+        "red" : 232
+      }
+    },
+    {
+      "hex" : "191C16",
+      "name" : "Rangoon Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 23,
+        "green" : 28,
+        "red" : 26
+      }
+    },
+    {
+      "hex" : "42423D",
+      "name" : "Charcoal",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 66,
+        "red" : 66
+      }
+    },
+    {
+      "hex" : "706B66",
+      "name" : "Ironside Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 102,
+        "green" : 107,
+        "red" : 112
+      }
+    },
+    {
+      "hex" : "B7B2A8",
+      "name" : "Silk",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 168,
+        "green" : 179,
+        "red" : 184
+      }
+    },
+    {
+      "hex" : "F2F2E8",
+      "name" : "Alabaster",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 232,
+        "green" : 242,
+        "red" : 242
+      }
+    },
+    {
+      "hex" : "AF7F4F",
+      "name" : "Driftwood",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 79,
+        "green" : 128,
+        "red" : 176
+      }
+    },
+    {
+      "hex" : "C9996B",
+      "name" : "Camel",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 107,
+        "green" : 153,
+        "red" : 201
+      }
+    },
+    {
+      "hex" : "FFBF72",
+      "name" : "Macaroni And Cheese",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 115,
+        "green" : 191,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "AFA087",
+      "name" : "Hillary",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 135,
+        "green" : 161,
+        "red" : 176
+      }
+    },
+    {
+      "hex" : "E0D6C9",
+      "name" : "Albescent White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 201,
+        "green" : 214,
+        "red" : 224
+      }
+    }
+  ],
+  "name" : "Orphans Surboards"
+}

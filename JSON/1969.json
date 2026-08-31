@@ -1,0 +1,135 @@
+{
+  "colors" : [
+    {
+      "hex" : "95A091",
+      "name" : "Pewter",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 145,
+        "green" : 161,
+        "red" : 150
+      }
+    },
+    {
+      "hex" : "023933",
+      "name" : "Deep Teal",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 52,
+        "green" : 58,
+        "red" : 3
+      }
+    },
+    {
+      "hex" : "93CCAC",
+      "name" : "Eton Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 172,
+        "green" : 205,
+        "red" : 148
+      }
+    },
+    {
+      "hex" : "C8E5E8",
+      "name" : "Mabel",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 233,
+        "green" : 229,
+        "red" : 201
+      }
+    },
+    {
+      "hex" : "F9F6F2",
+      "name" : "Spring Wood",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 243,
+        "green" : 246,
+        "red" : 250
+      }
+    },
+    {
+      "hex" : "F7EEE2",
+      "name" : "Bianca",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 226,
+        "green" : 239,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "F8B691",
+      "name" : "Mandys Pink",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 145,
+        "green" : 183,
+        "red" : 248
+      }
+    },
+    {
+      "hex" : "F72D1F",
+      "name" : "Lust",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 31,
+        "green" : 46,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "8D7ED8",
+      "name" : "Chetwode Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 217,
+        "green" : 126,
+        "red" : 142
+      }
+    },
+    {
+      "hex" : "2D47A4",
+      "name" : "Sapphire",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 165,
+        "green" : 72,
+        "red" : 46
+      }
+    },
+    {
+      "hex" : "1A1918",
+      "name" : "Rangoon Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 24,
+        "green" : 26,
+        "red" : 27
+      }
+    },
+    {
+      "hex" : "5D371D",
+      "name" : "Carnaby Tan",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 29,
+        "green" : 56,
+        "red" : 93
+      }
+    },
+    {
+      "hex" : "F3B11A",
+      "name" : "Buttercup",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 26,
+        "green" : 178,
+        "red" : 243
+      }
+    }
+  ],
+  "name" : "1969"
+}

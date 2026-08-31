@@ -1,0 +1,85 @@
+{
+  "colors" : [
+    {
+      "hex" : "282A46",
+      "name" : "Valhalla",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 71,
+        "green" : 43,
+        "red" : 40
+      }
+    },
+    {
+      "hex" : "0052B1",
+      "name" : "Medium Teal Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 177,
+        "green" : 83,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "9FC2E3",
+      "name" : "Pale Cerulean",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 228,
+        "green" : 195,
+        "red" : 159
+      }
+    },
+    {
+      "hex" : "DCEDF4",
+      "name" : "Iceberg",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 245,
+        "green" : 238,
+        "red" : 221
+      }
+    },
+    {
+      "hex" : "F0E3CA",
+      "name" : "Scotch Mist",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 202,
+        "green" : 227,
+        "red" : 240
+      }
+    },
+    {
+      "hex" : "D0B99D",
+      "name" : "Vanilla",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 158,
+        "green" : 186,
+        "red" : 208
+      }
+    },
+    {
+      "hex" : "F1BB00",
+      "name" : "Corn",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 187,
+        "red" : 241
+      }
+    },
+    {
+      "hex" : "FB652E",
+      "name" : "Outrageous Orange",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 46,
+        "green" : 102,
+        "red" : 252
+      }
+    }
+  ],
+  "name" : "3550 St-Laurent"
+}

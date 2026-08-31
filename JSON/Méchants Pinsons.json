@@ -1,0 +1,75 @@
+{
+  "colors" : [
+    {
+      "hex" : "18191B",
+      "name" : "Eerie Black",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 27,
+        "green" : 25,
+        "red" : 24
+      }
+    },
+    {
+      "hex" : "766D3D",
+      "name" : "Yellow Metal",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 109,
+        "red" : 118
+      }
+    },
+    {
+      "hex" : "DBC68B",
+      "name" : "Zombie",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 139,
+        "green" : 198,
+        "red" : 219
+      }
+    },
+    {
+      "hex" : "D29D4C",
+      "name" : "Tussock",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 76,
+        "green" : 157,
+        "red" : 210
+      }
+    },
+    {
+      "hex" : "CD7E3C",
+      "name" : "Golden Bell",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 60,
+        "green" : 126,
+        "red" : 205
+      }
+    },
+    {
+      "hex" : "D1B1CA",
+      "name" : "Pink Lavender",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 202,
+        "green" : 177,
+        "red" : 209
+      }
+    },
+    {
+      "hex" : "556CD5",
+      "name" : "Indigo",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 213,
+        "green" : 108,
+        "red" : 85
+      }
+    }
+  ],
+  "name" : "Méchants Pinsons"
+}

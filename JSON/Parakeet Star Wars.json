@@ -1,0 +1,135 @@
+{
+  "colors" : [
+    {
+      "hex" : "BF724C",
+      "name" : "Red Damask",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 77,
+        "green" : 115,
+        "red" : 191
+      }
+    },
+    {
+      "hex" : "4266D8",
+      "name" : "Royal Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 217,
+        "green" : 102,
+        "red" : 66
+      }
+    },
+    {
+      "hex" : "D89956",
+      "name" : "Di Serria",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 87,
+        "green" : 153,
+        "red" : 217
+      }
+    },
+    {
+      "hex" : "FFCC33",
+      "name" : "Sunglow",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 51,
+        "green" : 204,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "05BFAF",
+      "name" : "Tiffany Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 176,
+        "green" : 191,
+        "red" : 5
+      }
+    },
+    {
+      "hex" : "999EBF",
+      "name" : "Rock Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 191,
+        "green" : 158,
+        "red" : 153
+      }
+    },
+    {
+      "hex" : "F23D4C",
+      "name" : "Coral Red",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 77,
+        "green" : 61,
+        "red" : 242
+      }
+    },
+    {
+      "hex" : "9344E5",
+      "name" : "Lavender Indigo",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 230,
+        "green" : 69,
+        "red" : 148
+      }
+    },
+    {
+      "hex" : "51CC66",
+      "name" : "Emerald",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 102,
+        "green" : 204,
+        "red" : 82
+      }
+    },
+    {
+      "hex" : "FF8E3F",
+      "name" : "Mango Tango",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 64,
+        "green" : 143,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "0ABFE5",
+      "name" : "Spiro Disco Ball",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 230,
+        "green" : 191,
+        "red" : 10
+      }
+    },
+    {
+      "hex" : "897FFF",
+      "name" : "Faded Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 255,
+        "green" : 128,
+        "red" : 138
+      }
+    },
+    {
+      "hex" : "21212D",
+      "name" : "Black Pearl",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 46,
+        "green" : 33,
+        "red" : 33
+      }
+    }
+  ],
+  "name" : "Parakeet Star Wars"
+}

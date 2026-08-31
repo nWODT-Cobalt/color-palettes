@@ -1,0 +1,95 @@
+{
+  "colors" : [
+    {
+      "hex" : "FFF8F1",
+      "name" : "Floral White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 241,
+        "green" : 248,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "E90A0B",
+      "name" : "Ku Crimson",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 11,
+        "green" : 10,
+        "red" : 233
+      }
+    },
+    {
+      "hex" : "9B927B",
+      "name" : "Gurkha",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 124,
+        "green" : 147,
+        "red" : 156
+      }
+    },
+    {
+      "hex" : "2C3832",
+      "name" : "Aztec",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 50,
+        "green" : 56,
+        "red" : 44
+      }
+    },
+    {
+      "hex" : "9F5B19",
+      "name" : "Hawaiian Tan",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 25,
+        "green" : 92,
+        "red" : 160
+      }
+    },
+    {
+      "hex" : "0C020A",
+      "name" : "Jaguar",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 10,
+        "green" : 3,
+        "red" : 13
+      }
+    },
+    {
+      "hex" : "8EA094",
+      "name" : "Pewter",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 149,
+        "green" : 161,
+        "red" : 143
+      }
+    },
+    {
+      "hex" : "AFB1F1",
+      "name" : "Perano",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 241,
+        "green" : 178,
+        "red" : 175
+      }
+    },
+    {
+      "hex" : "EDDE98",
+      "name" : "Wild Rice",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 152,
+        "green" : 222,
+        "red" : 238
+      }
+    }
+  ],
+  "name" : "244 St-Jacques (Dandy)"
+}

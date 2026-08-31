@@ -1,0 +1,205 @@
+{
+  "colors" : [
+    {
+      "hex" : "FFE000",
+      "name" : "Golden Yellow",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 224,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "595959",
+      "name" : "Bright Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 89,
+        "green" : 89,
+        "red" : 89
+      }
+    },
+    {
+      "hex" : "112D63",
+      "name" : "Biscay",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 99,
+        "green" : 46,
+        "red" : 18
+      }
+    },
+    {
+      "hex" : "F26000",
+      "name" : "Persimmon",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 97,
+        "red" : 242
+      }
+    },
+    {
+      "hex" : "42381C",
+      "name" : "Lisbon Brown",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 28,
+        "green" : 56,
+        "red" : 66
+      }
+    },
+    {
+      "hex" : "FFCEA3",
+      "name" : "Peach",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 163,
+        "green" : 207,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "A3A3A3",
+      "name" : "Gray Chateau",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 163,
+        "green" : 163,
+        "red" : 163
+      }
+    },
+    {
+      "hex" : "60B2DB",
+      "name" : "Malibu",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 219,
+        "green" : 179,
+        "red" : 97
+      }
+    },
+    {
+      "hex" : "9E1E38",
+      "name" : "Vivid Burgundy",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 56,
+        "green" : 31,
+        "red" : 158
+      }
+    },
+    {
+      "hex" : "F2C168",
+      "name" : "Rajah",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 105,
+        "green" : 194,
+        "red" : 242
+      }
+    },
+    {
+      "hex" : "1C44AA",
+      "name" : "Tory Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 171,
+        "green" : 69,
+        "red" : 28
+      }
+    },
+    {
+      "hex" : "4F3D3D",
+      "name" : "Crater Brown",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 61,
+        "red" : 79
+      }
+    },
+    {
+      "hex" : "9696A3",
+      "name" : "Santas Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 163,
+        "green" : 150,
+        "red" : 150
+      }
+    },
+    {
+      "hex" : "169972",
+      "name" : "Elf Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 115,
+        "green" : 153,
+        "red" : 23
+      }
+    },
+    {
+      "hex" : "ADAD19",
+      "name" : "Lucky",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 26,
+        "green" : 173,
+        "red" : 173
+      }
+    },
+    {
+      "hex" : "262121",
+      "name" : "Black",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 33,
+        "green" : 33,
+        "red" : 38
+      }
+    },
+    {
+      "hex" : "8C4223",
+      "name" : "Cumin",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 36,
+        "green" : 66,
+        "red" : 140
+      }
+    },
+    {
+      "hex" : "FFA5C6",
+      "name" : "Carnation Pink",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 199,
+        "green" : 166,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "F7F7F7",
+      "name" : "Black Haze",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 247,
+        "green" : 247,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "CC2300",
+      "name" : "Harley Davidson Orange",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 0,
+        "green" : 36,
+        "red" : 204
+      }
+    }
+  ],
+  "name" : "Le Corbusier"
+}

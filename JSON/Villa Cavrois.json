@@ -1,0 +1,95 @@
+{
+  "colors" : [
+    {
+      "hex" : "F7F4F7",
+      "name" : "Black Haze",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 247,
+        "green" : 245,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "C1D1BF",
+      "name" : "Paris White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 191,
+        "green" : 209,
+        "red" : 194
+      }
+    },
+    {
+      "hex" : "6BA591",
+      "name" : "Acapulco",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 145,
+        "green" : 166,
+        "red" : 107
+      }
+    },
+    {
+      "hex" : "47605B",
+      "name" : "Viridian Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 92,
+        "green" : 97,
+        "red" : 71
+      }
+    },
+    {
+      "hex" : "5B5954",
+      "name" : "Chicago",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 84,
+        "green" : 89,
+        "red" : 92
+      }
+    },
+    {
+      "hex" : "596B7F",
+      "name" : "Dark Electric Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 128,
+        "green" : 107,
+        "red" : 89
+      }
+    },
+    {
+      "hex" : "C4A370",
+      "name" : "Camel",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 112,
+        "green" : 163,
+        "red" : 196
+      }
+    },
+    {
+      "hex" : "EDD6A0",
+      "name" : "Hampton",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 161,
+        "green" : 214,
+        "red" : 237
+      }
+    },
+    {
+      "hex" : "F4E0B2",
+      "name" : "Wheat",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 179,
+        "green" : 224,
+        "red" : 245
+      }
+    }
+  ],
+  "name" : "Villa Cavrois"
+}

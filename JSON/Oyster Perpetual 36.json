@@ -1,0 +1,205 @@
+{
+  "colors" : [
+    {
+      "hex" : "FBD635",
+      "name" : "Bright Sun",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 53,
+        "green" : 214,
+        "red" : 251
+      }
+    },
+    {
+      "hex" : "F7C139",
+      "name" : "Saffron",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 57,
+        "green" : 193,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "20C9E8",
+      "name" : "Scooter",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 232,
+        "green" : 201,
+        "red" : 32
+      }
+    },
+    {
+      "hex" : "4C9BDB",
+      "name" : "Celestial Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 219,
+        "green" : 155,
+        "red" : 76
+      }
+    },
+    {
+      "hex" : "FD7381",
+      "name" : "Froly",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 129,
+        "green" : 115,
+        "red" : 253
+      }
+    },
+    {
+      "hex" : "F5526A",
+      "name" : "Fiery Rose",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 106,
+        "green" : 82,
+        "red" : 245
+      }
+    },
+    {
+      "hex" : "FDAA52",
+      "name" : "Texas Rose",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 82,
+        "green" : 170,
+        "red" : 253
+      }
+    },
+    {
+      "hex" : "F6952F",
+      "name" : "Neon Carrot",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 47,
+        "green" : 149,
+        "red" : 246
+      }
+    },
+    {
+      "hex" : "0CAB9B",
+      "name" : "Persian Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 155,
+        "green" : 171,
+        "red" : 12
+      }
+    },
+    {
+      "hex" : "16937D",
+      "name" : "Gossamer",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 125,
+        "green" : 147,
+        "red" : 22
+      }
+    },
+    {
+      "hex" : "8FB24D",
+      "name" : "Chelsea Cucumber",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 77,
+        "green" : 178,
+        "red" : 143
+      }
+    },
+    {
+      "hex" : "719E54",
+      "name" : "Asparagus",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 84,
+        "green" : 158,
+        "red" : 113
+      }
+    },
+    {
+      "hex" : "C881C5",
+      "name" : "African Violet",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 197,
+        "green" : 129,
+        "red" : 200
+      }
+    },
+    {
+      "hex" : "A65BB2",
+      "name" : "Purple Plum",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 178,
+        "green" : 91,
+        "red" : 166
+      }
+    },
+    {
+      "hex" : "1950A3",
+      "name" : "Tory Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 163,
+        "green" : 80,
+        "red" : 25
+      }
+    },
+    {
+      "hex" : "0F4776",
+      "name" : "Dark Cerulean",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 118,
+        "green" : 71,
+        "red" : 15
+      }
+    },
+    {
+      "hex" : "141829",
+      "name" : "Mirage",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 41,
+        "green" : 24,
+        "red" : 20
+      }
+    },
+    {
+      "hex" : "0F0409",
+      "name" : "Asphalt",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 9,
+        "green" : 4,
+        "red" : 15
+      }
+    },
+    {
+      "hex" : "F4FAFB",
+      "name" : "Black Squeeze",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 251,
+        "green" : 250,
+        "red" : 244
+      }
+    },
+    {
+      "hex" : "ECF4FC",
+      "name" : "Zumthor",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 252,
+        "green" : 244,
+        "red" : 236
+      }
+    }
+  ],
+  "name" : "Oyster Perpetual 36"
+}

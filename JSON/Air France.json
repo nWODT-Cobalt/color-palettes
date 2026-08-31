@@ -1,0 +1,205 @@
+{
+  "colors" : [
+    {
+      "hex" : "EDD6A5",
+      "name" : "Astra",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 166,
+        "green" : 214,
+        "red" : 237
+      }
+    },
+    {
+      "hex" : "FFE256",
+      "name" : "Mustard",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 87,
+        "green" : 227,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "FFD163",
+      "name" : "Goldenrod",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 99,
+        "green" : 209,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "F47A02",
+      "name" : "Chilean Fire",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 3,
+        "green" : 122,
+        "red" : 245
+      }
+    },
+    {
+      "hex" : "E50F3D",
+      "name" : "Crimson",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 15,
+        "red" : 230
+      }
+    },
+    {
+      "hex" : "7C0C51",
+      "name" : "Rose Bud Cherry",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 82,
+        "green" : 13,
+        "red" : 125
+      }
+    },
+    {
+      "hex" : "561E35",
+      "name" : "Wine Berry",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 54,
+        "green" : 31,
+        "red" : 87
+      }
+    },
+    {
+      "hex" : "2D1C38",
+      "name" : "Blackcurrant",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 56,
+        "green" : 28,
+        "red" : 46
+      }
+    },
+    {
+      "hex" : "110A33",
+      "name" : "Black Rock",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 51,
+        "green" : 10,
+        "red" : 18
+      }
+    },
+    {
+      "hex" : "002649",
+      "name" : "Oxford Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 74,
+        "green" : 38,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "07262B",
+      "name" : "Daintree",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 43,
+        "green" : 38,
+        "red" : 8
+      }
+    },
+    {
+      "hex" : "003F59",
+      "name" : "Teal Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 89,
+        "green" : 64,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "004466",
+      "name" : "Regal Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 102,
+        "green" : 69,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "059EBC",
+      "name" : "Pacific Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 189,
+        "green" : 158,
+        "red" : 5
+      }
+    },
+    {
+      "hex" : "8ECECE",
+      "name" : "Riptide",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 207,
+        "green" : 207,
+        "red" : 143
+      }
+    },
+    {
+      "hex" : "C1D8D1",
+      "name" : "Conch",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 209,
+        "green" : 217,
+        "red" : 194
+      }
+    },
+    {
+      "hex" : "44A856",
+      "name" : "Fruit Salad",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 87,
+        "green" : 168,
+        "red" : 69
+      }
+    },
+    {
+      "hex" : "F9B7B5",
+      "name" : "Melon",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 181,
+        "green" : 184,
+        "red" : 250
+      }
+    },
+    {
+      "hex" : "E52159",
+      "name" : "Amaranth",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 89,
+        "green" : 33,
+        "red" : 230
+      }
+    },
+    {
+      "hex" : "6B1614",
+      "name" : "Cherrywood",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 20,
+        "green" : 23,
+        "red" : 107
+      }
+    }
+  ],
+  "name" : "Air France"
+}

@@ -1,0 +1,165 @@
+{
+  "colors" : [
+    {
+      "hex" : "D8E6F2",
+      "name" : "Azureish White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 242,
+        "green" : 231,
+        "red" : 217
+      }
+    },
+    {
+      "hex" : "ADBDCD",
+      "name" : "Casper",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 206,
+        "green" : 189,
+        "red" : 174
+      }
+    },
+    {
+      "hex" : "778594",
+      "name" : "Light Slate Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 149,
+        "green" : 134,
+        "red" : 119
+      }
+    },
+    {
+      "hex" : "010713",
+      "name" : "FOGRA29 Rich Black",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 19,
+        "green" : 8,
+        "red" : 2
+      }
+    },
+    {
+      "hex" : "A7BDD8",
+      "name" : "Pigeon Post",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 216,
+        "green" : 189,
+        "red" : 168
+      }
+    },
+    {
+      "hex" : "72BAF7",
+      "name" : "Very Light Azure",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 247,
+        "green" : 187,
+        "red" : 115
+      }
+    },
+    {
+      "hex" : "025584",
+      "name" : "Venice Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 132,
+        "green" : 86,
+        "red" : 3
+      }
+    },
+    {
+      "hex" : "0A3B5F",
+      "name" : "Astronaut Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 95,
+        "green" : 60,
+        "red" : 10
+      }
+    },
+    {
+      "hex" : "5F7F4C",
+      "name" : "Glade Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 77,
+        "green" : 127,
+        "red" : 96
+      }
+    },
+    {
+      "hex" : "3D573A",
+      "name" : "Tom Thumb",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 59,
+        "green" : 87,
+        "red" : 61
+      }
+    },
+    {
+      "hex" : "003D2A",
+      "name" : "Sherwood Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 42,
+        "green" : 61,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "B49885",
+      "name" : "Del Rio",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 134,
+        "green" : 152,
+        "red" : 181
+      }
+    },
+    {
+      "hex" : "87727D",
+      "name" : "Empress",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 125,
+        "green" : 114,
+        "red" : 136
+      }
+    },
+    {
+      "hex" : "EDC5D0",
+      "name" : "Oyster Pink",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 208,
+        "green" : 198,
+        "red" : 238
+      }
+    },
+    {
+      "hex" : "CA0010",
+      "name" : "Harvard Crimson",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 16,
+        "green" : 0,
+        "red" : 202
+      }
+    },
+    {
+      "hex" : "E5AB13",
+      "name" : "Galliano",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 20,
+        "green" : 171,
+        "red" : 229
+      }
+    }
+  ],
+  "name" : "522 Villeray"
+}

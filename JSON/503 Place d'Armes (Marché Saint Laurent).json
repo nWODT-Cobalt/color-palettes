@@ -1,0 +1,85 @@
+{
+  "colors" : [
+    {
+      "hex" : "FF1914",
+      "name" : "RYB Red",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 21,
+        "green" : 25,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "F69988",
+      "name" : "Mona Lisa",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 137,
+        "green" : 154,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "FFBA2E",
+      "name" : "Supernova",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 47,
+        "green" : 187,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "CD490F",
+      "name" : "Sinopia",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 16,
+        "green" : 73,
+        "red" : 205
+      }
+    },
+    {
+      "hex" : "77656E",
+      "name" : "Rum",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 110,
+        "green" : 102,
+        "red" : 119
+      }
+    },
+    {
+      "hex" : "094B43",
+      "name" : "Evening Sea",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 67,
+        "green" : 76,
+        "red" : 9
+      }
+    },
+    {
+      "hex" : "A5D5B7",
+      "name" : "Turquoise Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 183,
+        "green" : 213,
+        "red" : 166
+      }
+    },
+    {
+      "hex" : "72BECC",
+      "name" : "Seagull",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 204,
+        "green" : 190,
+        "red" : 114
+      }
+    }
+  ],
+  "name" : "503 Place d'Armes (Marché Saint Laurent)"
+}

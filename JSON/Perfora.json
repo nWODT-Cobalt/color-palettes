@@ -1,0 +1,75 @@
+{
+  "colors" : [
+    {
+      "hex" : "B09C75",
+      "name" : "Sandrift",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 117,
+        "green" : 156,
+        "red" : 176
+      }
+    },
+    {
+      "hex" : "DFE0D9",
+      "name" : "Black Haze",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 217,
+        "green" : 224,
+        "red" : 223
+      }
+    },
+    {
+      "hex" : "EBB834",
+      "name" : "Meat Brown",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 53,
+        "green" : 185,
+        "red" : 235
+      }
+    },
+    {
+      "hex" : "4E4459",
+      "name" : "Mortar",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 89,
+        "green" : 68,
+        "red" : 78
+      }
+    },
+    {
+      "hex" : "007452",
+      "name" : "Watercourse",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 83,
+        "green" : 117,
+        "red" : 0
+      }
+    },
+    {
+      "hex" : "FD243F",
+      "name" : "Scarlet",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 63,
+        "green" : 36,
+        "red" : 253
+      }
+    },
+    {
+      "hex" : "0053BC",
+      "name" : "Medium Teal Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 188,
+        "green" : 83,
+        "red" : 0
+      }
+    }
+  ],
+  "name" : "Perfora"
+}

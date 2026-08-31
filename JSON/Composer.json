@@ -1,0 +1,145 @@
+{
+  "colors" : [
+    {
+      "hex" : "22372B",
+      "name" : "Palm Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 43,
+        "green" : 55,
+        "red" : 34
+      }
+    },
+    {
+      "hex" : "477F5D",
+      "name" : "Como",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 93,
+        "green" : 127,
+        "red" : 71
+      }
+    },
+    {
+      "hex" : "54AF71",
+      "name" : "Ocean Green",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 113,
+        "green" : 175,
+        "red" : 84
+      }
+    },
+    {
+      "hex" : "EC612A",
+      "name" : "Deep Carrot Orange",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 42,
+        "green" : 97,
+        "red" : 236
+      }
+    },
+    {
+      "hex" : "DDBE9E",
+      "name" : "Cameo",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 158,
+        "green" : 190,
+        "red" : 221
+      }
+    },
+    {
+      "hex" : "3670D3",
+      "name" : "Han Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 211,
+        "green" : 112,
+        "red" : 54
+      }
+    },
+    {
+      "hex" : "67CFF6",
+      "name" : "Maya Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 246,
+        "green" : 207,
+        "red" : 103
+      }
+    },
+    {
+      "hex" : "F2AB46",
+      "name" : "My Sin",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 70,
+        "green" : 171,
+        "red" : 242
+      }
+    },
+    {
+      "hex" : "E2B04E",
+      "name" : "Rob Roy",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 78,
+        "green" : 176,
+        "red" : 226
+      }
+    },
+    {
+      "hex" : "B6281C",
+      "name" : "Fire Brick",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 28,
+        "green" : 40,
+        "red" : 182
+      }
+    },
+    {
+      "hex" : "E46A9E",
+      "name" : "Thulian Pink",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 158,
+        "green" : 106,
+        "red" : 228
+      }
+    },
+    {
+      "hex" : "F3B5EE",
+      "name" : "Brilliant Lavender",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 238,
+        "green" : 181,
+        "red" : 243
+      }
+    },
+    {
+      "hex" : "8E66D1",
+      "name" : "Amethyst",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 209,
+        "green" : 102,
+        "red" : 142
+      }
+    },
+    {
+      "hex" : "ECEDEE",
+      "name" : "White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 238,
+        "green" : 237,
+        "red" : 236
+      }
+    }
+  ],
+  "name" : "Composer"
+}

@@ -1,0 +1,85 @@
+{
+  "colors" : [
+    {
+      "hex" : "635959",
+      "name" : "Zambezi",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 89,
+        "green" : 89,
+        "red" : 99
+      }
+    },
+    {
+      "hex" : "6BB596",
+      "name" : "Silver Tree",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 150,
+        "green" : 181,
+        "red" : 107
+      }
+    },
+    {
+      "hex" : "3D3A49",
+      "name" : "Martinique",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 74,
+        "green" : 59,
+        "red" : 61
+      }
+    },
+    {
+      "hex" : "915E77",
+      "name" : "Antique Fuchsia",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 120,
+        "green" : 94,
+        "red" : 145
+      }
+    },
+    {
+      "hex" : "AF9BA5",
+      "name" : "Rose Quartz",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 166,
+        "green" : 156,
+        "red" : 176
+      }
+    },
+    {
+      "hex" : "E57C59",
+      "name" : "Burnt Sienna",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 89,
+        "green" : 125,
+        "red" : 230
+      }
+    },
+    {
+      "hex" : "7791C9",
+      "name" : "Dark Pastel Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 201,
+        "green" : 145,
+        "red" : 120
+      }
+    },
+    {
+      "hex" : "F9D142",
+      "name" : "Bright Sun",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 66,
+        "green" : 209,
+        "red" : 250
+      }
+    }
+  ],
+  "name" : "Warsaw University of Technology"
+}

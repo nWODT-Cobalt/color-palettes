@@ -1,0 +1,185 @@
+{
+  "colors" : [
+    {
+      "hex" : "3F3F3F",
+      "name" : "Charcoal",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 64,
+        "green" : 64,
+        "red" : 64
+      }
+    },
+    {
+      "hex" : "EDEDED",
+      "name" : "White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 237,
+        "green" : 237,
+        "red" : 237
+      }
+    },
+    {
+      "hex" : "F7F7F7",
+      "name" : "Desert Storm",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 247,
+        "green" : 247,
+        "red" : 247
+      }
+    },
+    {
+      "hex" : "FFFFFF",
+      "name" : "White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 255,
+        "green" : 255,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "3AB2D1",
+      "name" : "Summer Sky",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 209,
+        "green" : 179,
+        "red" : 59
+      }
+    },
+    {
+      "hex" : "3887BF",
+      "name" : "Curious Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 191,
+        "green" : 135,
+        "red" : 56
+      }
+    },
+    {
+      "hex" : "213A54",
+      "name" : "Regal Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 84,
+        "green" : 59,
+        "red" : 33
+      }
+    },
+    {
+      "hex" : "4F667F",
+      "name" : "Dark Electric Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 128,
+        "green" : 102,
+        "red" : 79
+      }
+    },
+    {
+      "hex" : "28353D",
+      "name" : "Oxford Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 61,
+        "green" : 54,
+        "red" : 41
+      }
+    },
+    {
+      "hex" : "212B30",
+      "name" : "Cinder",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 48,
+        "green" : 43,
+        "red" : 33
+      }
+    },
+    {
+      "hex" : "8989CC",
+      "name" : "Chetwode Blue",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 204,
+        "green" : 138,
+        "red" : 138
+      }
+    },
+    {
+      "hex" : "3FAFA5",
+      "name" : "Keppel",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 166,
+        "green" : 176,
+        "red" : 64
+      }
+    },
+    {
+      "hex" : "56B782",
+      "name" : "Emerald",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 130,
+        "green" : 184,
+        "red" : 87
+      }
+    },
+    {
+      "hex" : "F2EF75",
+      "name" : "Manz",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 117,
+        "green" : 240,
+        "red" : 242
+      }
+    },
+    {
+      "hex" : "F9AF3A",
+      "name" : "Supernova",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 59,
+        "green" : 176,
+        "red" : 250
+      }
+    },
+    {
+      "hex" : "F9876B",
+      "name" : "Salmon",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 107,
+        "green" : 135,
+        "red" : 250
+      }
+    },
+    {
+      "hex" : "E55E5E",
+      "name" : "Roman",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 94,
+        "green" : 94,
+        "red" : 230
+      }
+    },
+    {
+      "hex" : "ED6399",
+      "name" : "Light Crimson",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 153,
+        "green" : 99,
+        "red" : 237
+      }
+    }
+  ],
+  "name" : "Mapbox"
+}
