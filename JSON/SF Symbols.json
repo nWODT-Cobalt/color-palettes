@@ -1,0 +1,185 @@
+{
+  "colors" : [
+    {
+      "hex" : "63C26B",
+      "name" : "Fern",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 107,
+        "green" : 194,
+        "red" : 99
+      }
+    },
+    {
+      "hex" : "A4D4A7",
+      "name" : "Chinook",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 167,
+        "green" : 212,
+        "red" : 164
+      }
+    },
+    {
+      "hex" : "53B7E1",
+      "name" : "Blue Jeans",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 225,
+        "green" : 183,
+        "red" : 83
+      }
+    },
+    {
+      "hex" : "A1D2E5",
+      "name" : "French Pass",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 229,
+        "green" : 210,
+        "red" : 161
+      }
+    },
+    {
+      "hex" : "F4CF54",
+      "name" : "Kournikova",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 84,
+        "green" : 207,
+        "red" : 244
+      }
+    },
+    {
+      "hex" : "5F6D79",
+      "name" : "Nevada",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 121,
+        "green" : 109,
+        "red" : 95
+      }
+    },
+    {
+      "hex" : "687984",
+      "name" : "Hoki",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 132,
+        "green" : 121,
+        "red" : 104
+      }
+    },
+    {
+      "hex" : "A1A9AF",
+      "name" : "Gull Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 175,
+        "green" : 169,
+        "red" : 161
+      }
+    },
+    {
+      "hex" : "B1B9C2",
+      "name" : "Heather",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 194,
+        "green" : 185,
+        "red" : 177
+      }
+    },
+    {
+      "hex" : "CDD4DA",
+      "name" : "Zumthor",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 218,
+        "green" : 212,
+        "red" : 205
+      }
+    },
+    {
+      "hex" : "738391",
+      "name" : "Slate Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 145,
+        "green" : 131,
+        "red" : 115
+      }
+    },
+    {
+      "hex" : "98A3AD",
+      "name" : "Cadet Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 173,
+        "green" : 163,
+        "red" : 152
+      }
+    },
+    {
+      "hex" : "FFFFFF",
+      "name" : "White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 255,
+        "green" : 255,
+        "red" : 255
+      }
+    },
+    {
+      "hex" : "5C5C7A",
+      "name" : "Comet",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 122,
+        "green" : 92,
+        "red" : 92
+      }
+    },
+    {
+      "hex" : "9B9AAF",
+      "name" : "Logan",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 175,
+        "green" : 154,
+        "red" : 155
+      }
+    },
+    {
+      "hex" : "D4D4E2",
+      "name" : "Titan White",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 226,
+        "green" : 212,
+        "red" : 212
+      }
+    },
+    {
+      "hex" : "646A6D",
+      "name" : "Mid Gray",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 109,
+        "green" : 106,
+        "red" : 100
+      }
+    },
+    {
+      "hex" : "D5D3CF",
+      "name" : "Mercury",
+      "rgba" : {
+        "alpha" : 100,
+        "blue" : 207,
+        "green" : 211,
+        "red" : 213
+      }
+    }
+  ],
+  "name" : "SF Symbols"
+}
